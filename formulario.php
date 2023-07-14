@@ -14,6 +14,6 @@
         <button type="submit">Consultar</button> 
         <button id="buttonConsulta" type="button">Consultar a PHP</button>
     </form>
-    <script src="script.js"></script>
+    <script src="java.js"></script>
 </body>
 </html>
